@@ -1,0 +1,38 @@
+.pink {
+    border-color: black;
+    color: black;
+    background-color: rgb(228, 130, 147);
+}
+
+.yellow {
+    border-color: black;
+    color: black;
+    background-color: yellow;
+}
+
+.blue {
+    border-color: black;
+    color: black;
+    background-color: rgb(98, 98, 233);
+}
+
+.green {
+    border-color: black;
+    color: black;
+    background-color: rgb(86, 206, 86);
+}
+ 
+.table thead tr>td {
+    width: 300px;
+    height: 200px;
+}
+
+.table tbody tr>td {
+    width: 300px;
+    height: 200px;
+}
+
+
+
+
+    
